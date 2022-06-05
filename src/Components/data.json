@@ -1,0 +1,1342 @@
+{
+    "carouselImage": [
+        {
+            "id": 1,
+            "url": "/Images/TopBannerImages/Screenshot 2022-05-08 124631.png"
+        },
+        {
+            "id": 2,
+            "url": "/Images/TopBannerImages/hp-340-notebook-pc-review-banner.jpg"
+        },
+        {
+            "id": 3,
+            "url": "/Images/TopBannerImages/Honor Magic goes official _ price, specifications.png"
+        },
+        {
+            "id": 4,
+            "url": "/Images/TopBannerImages/Screenshot 2022-05-08 122055.png"
+        }
+    ],
+    "categoriesImage": [
+        {
+            "id": 1,
+            "category": "bestOffer",
+            "url": "/Images/CategoriesImage/bestOffer4.jpg",
+            "name": "Best Offers"
+        },
+        {
+            "id": 2,
+            "category": "mobile",
+            "url": "/Images/CategoriesImage/Screenshot 2022-05-08 125703.png",
+            "name": "Mobiles"
+        },
+        {
+            "id": 3,
+            "category": "smartWatch",
+            "url": "/Images/CategoriesImage/Screenshot 2022-05-08 125256.png",
+            "name": "Smart Watchs"
+        },
+        {
+            "id": 4,
+            "category": "speaker",
+            "url": "/Images/CategoriesImage/speaker.jpg",
+            "name": "Speakers"
+        },
+        {
+            "id": 5,
+            "category": "laptop",
+            "url": "/Images/CategoriesImage/laptopFinal1.jpg",
+            "name": "Laptops"
+        },
+        {
+            "id": 6,
+            "category": "airbuds",
+            "url": "/Images/CategoriesImage/airbuds.png",
+            "name": "Airbuds"
+        },
+        {
+            "id": 7,
+            "category": "tv",
+            "url": "/Images/CategoriesImage/tv1.jpg",
+            "name": "Televisions"
+        },
+        {
+            "id": 8,
+            "category": "smartBand",
+            "url": "/Images/CategoriesImage/smartband.png",
+            "name": "Smart Bands"
+        },
+        {
+            "id": 9,
+            "category": "headphones",
+            "url": "/Images/CategoriesImage/headphone.jpg",
+            "name": "Headphone"
+        },
+        {
+            "id": 10,
+            "category": "tablet",
+            "url": "/Images/CategoriesImage/tab4.png",
+            "name": "Tablets"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "category": "mobile",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/pocoF3GT.png",
+                "/Images/ItemsImage/pocoF3GTFull.png",
+                "/Images/ItemsImage/pocoF3GtSide.png"
+            ],
+            "title": "Poco F3 GT",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Snapdragon 870",
+                "Color": "blue",
+                "Screen Size": "6.5 inches",
+                "Battery": "4500 mAh",
+                "Rear Camera": "64Mp + 8MP + 5MP + 2MP",
+                "Front Camera": "32MP"
+            }
+        },
+        {
+            "id": 2,
+            "category": "tv",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/lg.png",
+                "/Images/ItemsImage/lgSide.png"
+            ],
+            "title": "LG LM56",
+            "description": "Description",
+            "price": 25999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Operating System": "Android (Google Assistant in-built)",
+                "Resolution": "HD Ready 1366 * 768 Pixels",
+                "Sound Output": "20 W",
+                "Refresh Rate": "60 Hz"
+            }
+        },
+        {
+            "id": 3,
+            "category": "mobile",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/realmeGTNeo2.png",
+                "/Images/ItemsImage/realmeGTNeo2Back.png"
+            ],
+            "title": "Realme Gt Neo 2",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Snapdragon 8 Gen 1",
+                "Color": "black",
+                "Screen Size": "6.5 inches",
+                "Battery": "6000 mAh",
+                "Rear Camera": "48Mp + 5MP + 5MP",
+                "Front Camera": "16MP"
+            }
+        },
+        {
+            "id": 4,
+            "category": "laptop",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/dellLaptop.png",
+                "/Images/ItemsImage/dellLaptopSide.png",
+                "/Images/ItemsImage/dellLaptopTop.png"
+            ],
+            "title": "Dell Inspiron 15",
+            "description": "Description",
+            "price": 54999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "512GB SSD",
+                "Processor": "Intel i5 11Gen",
+                "Color": "Silver",
+                "Screen Size": "15.6 inches"
+            }
+        },
+        {
+            "id": 5,
+            "category": "tv",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/dell.png",
+                "/Images/ItemsImage/dellside.png",
+                "/Images/ItemsImage/dellSideView.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 49999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "1 TB",
+                "Processor": "Ryzen 5 3500U",
+                "Color": "Black",
+                "Screen Size": "14 inches"
+            }
+        },
+        {
+            "id": 6,
+            "category": "mobile",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/redmi10.png",
+                "/Images/ItemsImage/redmi10Back.png",
+                "/Images/ItemsImage/redmi10Side.png"
+            ],
+            "title": "Redmi 10",
+            "description": "Description",
+            "price": 15999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Midiatek Dimensity 700",
+                "Color": "blue",
+                "Screen Size": "6.5 inches"
+            }
+        },
+        {
+            "id": 7,
+            "category": "tablet",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/samsungTab.png",
+                "/Images/ItemsImage/samsungTabBack.png",
+                "/Images/ItemsImage/samsungTabSide.png"
+            ],
+            "title": "Samsung Galaxy Tab S8",
+            "description": "Description",
+            "price": 84999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "12GB",
+                "Storage": "256GB",
+                "Processor": "Snapdragon 8 Gen 1",
+                "Color": "White",
+                "Screen Size": "10.5 inches"
+            }
+        },
+        {
+            "id": 8,
+            "category": "tV",
+            "slidingCards": true,
+            "image": [
+                "/Images/ItemsImage/samsungTv.png",
+                "/Images/ItemsImage/samsungBack.png",
+                "/Images/ItemsImage/samsungSide.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 18499,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Resolution": "HD Ready 1366 * 768 Pixels",
+                "Sound Output": "20 W",
+                "Refresh Rate": "60 Hz"
+            }
+        },
+        {
+            "id": 9,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/motorolaEdge30.png",
+                "/Images/ItemsImage/motorolaEdge30Back.png",
+                "/Images/ItemsImage/motorolaEdge30Side.png",
+                "/Images/ItemsImage/motorolaEdge30Top.png"
+            ],
+            "title": "Motorola Edge 30",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "128GB",
+                "Processor": "Qualcomm Snapdragon 778G Plus",
+                "Color": "blue",
+                "Screen Size": "6.5 inches",
+                "Battery": "4500 mAh",
+                "Rear Camera": "50MP + 50MP + 2MP",
+                "Front Camera": "32MP"
+            }
+        },
+        {
+            "id": 10,
+            "category": "speaker",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/boatStone190.png",
+                "/Images/ItemsImage/boatStone190(2).png",
+                "/Images/ItemsImage/boatStone190(3).png"
+            ],
+            "title": "Boat Stone 190F",
+            "description": "Description",
+            "price": 999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Power Output(RMS)": "6 W",
+                "Battery life": "4 Hours",
+                "Bluetooth Version": "5.0",
+                "Wireless range": "10 m",
+                "Water Resistance": "IPX7",
+                "Driver Size": "52 mm"
+            }
+        },
+        {
+            "id": 11,
+            "category": "speaker",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/boatSpeaker.png",
+                "/Images/ItemsImage/boatSpeaker2.png"
+            ],
+            "title": "boAt Stone 350",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Power Output": "10 W",
+                "Battery life": "12 Hours",
+                "Bluetooth Version": "5.0",
+                "Wireless range": "10 m",
+                "Water Resistance": "IPX7 Splash and Sweat Shield",
+                "Driver Size": "42 mm"
+            }
+        },
+        {
+            "id": 12,
+            "category": "tv",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/lg.png",
+                "/Images/ItemsImage/lgSide.png"
+            ],
+            "title": "LG LM56",
+            "description": "Description",
+            "price": 25999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Operating System": "Android (Google Assistant in-built)",
+                "Resolution": "HD Ready 1366 * 768 Pixels",
+                "Sound Output": "20 W",
+                "Refresh Rate": "60 Hz"
+            }
+        },
+        {
+            "id": 13,
+            "category": "speaker",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/miviSpeaker.png",
+                "/Images/ItemsImage/miviSpeaker2.png"
+            ],
+            "title": "Mivi Play Bluetooth Speaker",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Power Output": "10 W",
+                "Battery life": "12 Hours",
+                "Bluetooth Version": "5.0",
+                "Wireless range": "10 m",
+                "Driver Size": "46 mm"
+            }
+        },
+        {
+            "id": 14,
+            "category": "laptop",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/dellLaptop.png",
+                "/Images/ItemsImage/dellLaptopSide.png",
+                "/Images/ItemsImage/dellLaptopTop.png"
+            ],
+            "title": "Dell Inspiron 15",
+            "description": "Description",
+            "price": 54999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "512GB SSD",
+                "Processor": "Intel i5 11Gen",
+                "Color": "Silver",
+                "Screen Size": "15.6 inches"
+            }
+        },
+        {
+            "id": 15,
+            "category": "tv",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/dell.png",
+                "/Images/ItemsImage/dellside.png",
+                "/Images/ItemsImage/dellSideView.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 49999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "1 TB",
+                "Processor": "Ryzen 5 3500U",
+                "Color": "Black",
+                "Screen Size": "14 inches"
+            }
+        },
+        {
+            "id": 16,
+            "category": "speaker",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/feronsSpeaker.png",
+                "/Images/ItemsImage/feronsSpeaker2.png",
+                "/Images/ItemsImage/feronsSpeaker3.png"
+            ],
+            "title": "F FERONS Wireless Speaker",
+            "description": "Description",
+            "price": 799,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Power Output": "9 W",
+                "Battery life": "12 Hours",
+                "Charging time": "1.5 Hours",
+                "Bluetooth Version": "4.2",
+                "Driver Size": "40 mm",
+                "Additional Features": "Memory Card Slot"
+            }
+        },
+        {
+            "id": 17,
+            "category": "tablet",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/samsungTab.png",
+                "/Images/ItemsImage/samsungTabBack.png",
+                "/Images/ItemsImage/samsungTabSide.png"
+            ],
+            "title": "Samsung Galaxy Tab S8",
+            "description": "Description",
+            "price": 84999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "12GB",
+                "Storage": "256GB",
+                "Processor": "Snapdragon 8 Gen 1",
+                "Color": "White",
+                "Screen Size": "10.5 inches"
+            }
+        },
+        {
+            "id": 18,
+            "category": "tV",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/samsungTv.png",
+                "/Images/ItemsImage/samsungBack.png",
+                "/Images/ItemsImage/samsungSide.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 18499,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Resolution": "HD Ready 1366 * 768 Pixels",
+                "Sound Output": "20 W",
+                "Refresh Rate": "60 Hz"
+            }
+        },
+        {
+            "id": 19,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/motorolaEdge30.png",
+                "/Images/ItemsImage/motorolaEdge30Back.png",
+                "/Images/ItemsImage/motorolaEdge30Side.png",
+                "/Images/ItemsImage/motorolaEdge30Top.png"
+            ],
+            "title": "Motorola Edge 30",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "128GB",
+                "Processor": "Qualcomm Snapdragon 778G Plus",
+                "Color": "blue",
+                "Screen Size": "6.5 inches",
+                "Battery": "4500 mAh",
+                "Rear Camera": "50MP + 50MP + 2MP",
+                "Front Camera": "32MP"
+            }
+        },
+        {
+            "id": 20,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/pocoF3GT.png",
+                "/Images/ItemsImage/pocoF3GTFull.png",
+                "/Images/ItemsImage/pocoF3GtSide.png"
+            ],
+            "title": "Poco F3 GT",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Snapdragon 870",
+                "Color": "blue",
+                "Screen Size": "6.5 inches",
+                "Battery": "4500 mAh",
+                "Rear Camera": "64Mp + 8MP + 5MP + 2MP",
+                "Front Camera": "32MP"
+            }
+        },
+        {
+            "id": 21,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/pocoF3GT.png",
+                "/Images/ItemsImage/pocoF3GTFull.png",
+                "/Images/ItemsImage/pocoF3GtSide.png"
+            ],
+            "title": "Poco F3 GT",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Snapdragon 870",
+                "Color": "blue",
+                "Screen Size": "6.5 inches",
+                "Battery": "4500 mAh",
+                "Rear Camera": "64Mp + 8MP + 5MP + 2MP",
+                "Front Camera": "32MP"
+            }
+        },
+        {
+            "id": 22,
+            "category": "tv",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/lg.png",
+                "/Images/ItemsImage/lgSide.png"
+            ],
+            "title": "LG LM56",
+            "description": "Description",
+            "price": 25999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Operating System": "Android (Google Assistant in-built)",
+                "Resolution": "HD Ready 1366 * 768 Pixels",
+                "Sound Output": "20 W",
+                "Refresh Rate": "60 Hz"
+            }
+        },
+        {
+            "id": 23,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/realmeGTNeo2.png",
+                "/Images/ItemsImage/realmeGTNeo2Back.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 24999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Snapdragon 8 Gen 1",
+                "Color": "black",
+                "Screen Size": "6.5 inches",
+                "Battery": "6000 mAh",
+                "Rear Camera": "48Mp + 5MP + 5MP",
+                "Front Camera": "16MP"
+            }
+        },
+        {
+            "id": 24,
+            "category": "laptop",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/dellLaptop.png",
+                "/Images/ItemsImage/dellLaptopSide.png",
+                "/Images/ItemsImage/dellLaptopTop.png"
+            ],
+            "title": "Dell Inspiron 15",
+            "description": "Description",
+            "price": 54999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "512GB SSD",
+                "Processor": "Intel i5 11Gen",
+                "Color": "Silver",
+                "Screen Size": "15.6 inches"
+            }
+        },
+        {
+            "id": 25,
+            "category": "tv",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/dell.png",
+                "/Images/ItemsImage/dellside.png",
+                "/Images/ItemsImage/dellSideView.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 49999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "1 TB",
+                "Processor": "Ryzen 5 3500U",
+                "Color": "Black",
+                "Screen Size": "14 inches"
+            }
+        },
+        {
+            "id": 26,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/redmi10.png",
+                "/Images/ItemsImage/redmi10Back.png",
+                "/Images/ItemsImage/redmi10Side.png"
+            ],
+            "title": "Redmi 10",
+            "description": "Description",
+            "price": 15999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "6GB",
+                "Storage": "128GB",
+                "Processor": "Midiatek Dimensity 700",
+                "Color": "blue",
+                "Screen Size": "6.5 inches"
+            }
+        },
+        {
+            "id": 27,
+            "category": "tablet",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/samsungTab.png",
+                "/Images/ItemsImage/samsungTabBack.png",
+                "/Images/ItemsImage/samsungTabSide.png"
+            ],
+            "title": "Samsung Galaxy Tab S8",
+            "description": "Description",
+            "price": 84999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "12GB",
+                "Storage": "256GB",
+                "Processor": "Snapdragon 8 Gen 1",
+                "Color": "White",
+                "Screen Size": "10.5 inches"
+            }
+        },
+        {
+            "id": 28,
+            "category": "tV",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/samsungTv.png",
+                "/Images/ItemsImage/samsungBack.png",
+                "/Images/ItemsImage/samsungSide.png"
+            ],
+            "title": "Title",
+            "description": "Description",
+            "price": 18499,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Resolution": "HD Ready 1366 * 768 Pixels",
+                "Sound Output": "20 W",
+                "Refresh Rate": "60 Hz"
+            }
+        },
+        {
+            "id": 29,
+            "category": "mobile",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/motorolaEdge30.png",
+                "/Images/ItemsImage/motorolaEdge30Back.png",
+                "/Images/ItemsImage/motorolaEdge30Side.png",
+                "/Images/ItemsImage/motorolaEdge30Top.png"
+            ],
+            "title": "Motorola Edge 30",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Ram": "8GB",
+                "Storage": "128GB",
+                "Processor": "Qualcomm Snapdragon 778G Plus",
+                "Color": "blue",
+                "Screen Size": "6.5 inches",
+                "Battery": "4500 mAh",
+                "Rear Camera": "50MP + 50MP + 2MP",
+                "Front Camera": "32MP"
+            }
+        },
+        {
+            "id": 30,
+            "category": "smartWatch",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/realmeWatch.png",
+                "/Images/ItemsImage/realmeWatch2.png",
+                "/Images/ItemsImage/realmeWatch3.png"
+            ],
+            "title": "Noise ColorFit Qube SpO2",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Screen Type": "Touchscreen",
+                "Fit For": "Fitness & Outdoor",
+                "Battery Runtime": "5 Days"
+            }
+        },
+        {
+            "id": 31,
+            "category": "smartWatch",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/noiseWatch.png",
+                "/Images/ItemsImage/noiseWatch2.png"
+            ],
+            "title": "DIZO Watch R AMOLED",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Screen Type": "Touchscreen",
+                "Fit For": "Fitness & Outdoor",
+                "Battery Runtime": "12 Days"
+            }
+        },
+        {
+            "id": 31,
+            "category": "smartWatch",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/glwoWatch.png",
+                "/Images/ItemsImage/glwoFeaturs.png"
+            ],
+            "title": "GLWO Y68",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Screen Type": "Touchscreen",
+                "Fit For": "Fitness & Outdoor",
+                "Battery Runtime": "10 Days"
+            }
+        },
+        {
+            "id": 30,
+            "category": "smartWatch",
+            "slidingCards": false,
+            "image": [
+                "/Images/ItemsImage/realmeWatch.png",
+                "/Images/ItemsImage/realmeWatch2.png",
+                "/Images/ItemsImage/realmeWatch3.png"
+            ],
+            "title": "Noise ColorFit Qube SpO2",
+            "description": "Description",
+            "price": 26999,
+            "availableOffers":[
+                {
+                    "type": "Bank Offer",
+                    "offer": "₹700 Instant Discount on HDFC Bank Credit and Debit Cards Transactions"
+                },
+                {
+                    "type": "Bank Offer",
+                    "offer": "Additional ₹500 off on Debit and Credit cards"
+                },
+                {
+                    "type":"Bank Offer",
+                    "offer": "5% Cashback on Flipkart Axis Bank Card"
+                },
+                {
+                    "type":"Special Price",
+                    "offer": "Get extra ₹500 off (price inclusive of discount)"
+                }
+            ],
+            "details": {
+                "Screen Type": "Touchscreen",
+                "Fit For": "Fitness & Outdoor",
+                "Battery Runtime": "5 Days"
+            }
+        }
+    ]
+}

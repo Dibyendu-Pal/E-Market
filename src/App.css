@@ -1,0 +1,204 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.d-block {
+  height: 400px;
+}
+
+@media screen and (max-width: 990px) {
+  .d-block {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .d-block {
+    height: 180px;
+  }
+}
+
+.category-div {
+  margin-top: 4%;
+
+}
+
+
+@media screen and (min-width: 840px) {
+
+  #grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  html,
+  body {
+    height: 100%;
+  }
+
+  #root {
+    height: 100%;
+  }
+
+  .full-height {
+    height: 100%;
+  }
+
+  .item-img {
+    height: 400px;
+    width: 400px;
+  }
+
+  #itemDetailsDiv {
+    overflow-y: scroll;
+  }
+
+  #buyDivInNonSplit {
+    display: none;
+  }
+
+  #slidingcard-for-mobile {
+    width: 14vw;
+    height: 15vw;
+    margin: 1.2vw;
+  }
+
+  #slidingcardImg-for-mobile {
+    height: 7vw;
+  }
+
+  #slidingcardTitle-for-mobile {
+    font-size: 1.2vw
+  }
+
+  #slidingcardPrice-for-mobile {
+    font-size: 1.5vw
+
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .item-img {
+    height: 300px;
+    width: 300px;
+
+    margin: 10% auto;
+  }
+
+  #itemDetailsDiv{
+    padding-bottom: 7vw;
+  }
+
+  #buyDivInSplit {
+    display: none;
+  }
+
+  #slidingcard-for-mobile {
+    width: 29vw;
+    height: 29vw;
+    margin: 1.2vw;
+  }
+
+  #slidingcardImg-for-mobile {
+    height: 18vw;
+  }
+
+  #slidingcardTitle-for-mobile {
+    font-size: 2vw
+  }
+
+  #slidingcardPrice-for-mobile {
+    font-size: 2.5vw
+
+  }
+
+}
+
+body {
+  padding-top: 55px;
+}
+
+.hover:hover {
+  transform: scale(1.08);
+}
+
+.item {
+  margin: 10x auto;
+
+}
+
+.text-reset {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+  .card-for-mobile {
+    width: 40vw;
+  }
+
+  .cardImg-for-mobile {
+    height: 31vw;
+  }
+
+  .cardTitle-for-mobile {
+    font-size: 4vw;
+  }
+
+  .cardPrice-for-mobile {
+    font-size: 5vw;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .card-for-mobile {
+    width: 20vw;
+  }
+
+  .cardImg-for-mobile {
+    height: 12vw;
+  }
+
+  .cardTitle-for-mobile {
+    font-size: 1.5vw;
+  }
+
+  .cardPrice-for-mobile {
+    font-size: 2vw;
+  }
+}
